@@ -1,0 +1,14 @@
+:root{
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  --main-color: #8500d3;
+  --comp-color: #faea12ea;
+  --pure-black: #000;
+  --mid-grey: #333333;
+  --low-grey: #666666;
+
+
+}
